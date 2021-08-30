@@ -1,0 +1,53 @@
+<html lang="en" class="h-full bg-white lg:bg-gray-50 js-focus-visible" data-js-focus-visible="">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <link href="ebook.css" rel="stylesheet">
+    <title>eBook | Grégory Lejeune</title>
+  </head>
+
+  <body class="font-sans antialiased text-gray-600 min-h-full flex flex-col ">
+
+    <header class="flex-none relative z-50 text-sm leading-6 font-medium ring-1 ring-gray-900 ring-opacity-5 shadow-sm py-5 bg-white">
+      <nav aria-label="Global" class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center  flex-wrap sm:flex-nowrap  ">
+
+
+        </div>
+      </nav>
+    </header>
+
+    <main class="flex-auto flex">
+
+      <div class="relative flex w-full">
+        <div class="hidden lg:block absolute top-0 bottom-0 right-0 left-1/2 bg-white"></div>
+        <div class="relative flex w-full max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="w-full flex-none lg:grid lg:grid-cols-3 lg:gap-8">
+            <div class="bg-gray-50 lg:bg-transparent -mx-4 sm:-mx-6 lg:mx-0 py-12 sm:py-16 px-4 sm:px-6 lg:pl-0 lg:pr-8">
+              <nav aria-label="Table of contents" class="text-sm max-w-[37.5rem] mx-auto lg:max-w-none lg:mx-0 relative lg:sticky lg:top-10" x-data="TableOfContents()" x-init="init()">
+                <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
+
+                </ul>
+                <div class="absolute top-0 left-0 w-px bg-teal-500 origin-top transition-transform duration-300" :style="'height:'+(height?'1px':'0')+';transform:translateY('+top+'px) scaleY('+height+')'" :class="initialized ? 'transition-transform duration-300' : ''" style="height:1px;transform:translateY(0px) scaleY(20)"></div>
+              </nav>
+            </div>
+            <div class="relative col-span-2 lg:-ml-8 bg-white lg:shadow-md">
+              <div class="hidden lg:block absolute top-0 bottom-0 -right-4 w-8 bg-white"></div>
+
+              <div class="relative py-16 lg:px-16">
+                <div class="prose prose-sm max-w-[37.5rem] mx-auto">
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+  </body>
+
+</html>
