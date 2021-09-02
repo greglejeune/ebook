@@ -1,0 +1,12 @@
+# Site settings
+title: eBook
+baseurl: "https://greglejeune.github.io/ebook"
+url: "https://greglejeune.github.io/ebook/"
+
+# Settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  poker:
+    output: true
