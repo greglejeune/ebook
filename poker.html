@@ -2,3 +2,9 @@
 ---
 
 Poker
+
+{% for post in site.poker %}
+  <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
