@@ -72,6 +72,19 @@
     scroll-margin-top: 1.5555556em;
 }
 
+.prose-sm p {
+    margin-bottom: 1.1428571em;
+    margin-top: 1.1428571em;
+}
+
 .prose-sm>:first-child {
+    margin-top: 0;
+}
+
+.prose-sm h2+* {
+    margin-top: 0;
+}
+
+.prose-sm h3+* {
     margin-top: 0;
 }
