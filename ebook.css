@@ -55,3 +55,15 @@
 .font-sans {
     font-family: Inter var,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
+
+.prose-sm h2 {
+    font-size: 1.4285714em;
+    line-height: 1.4;
+    margin-bottom: .8em;
+    margin-top: 1.6em;
+    scroll-margin-top: 1.6em;
+}
+
+.prose-sm>:first-child {
+    margin-top: 0;
+}
