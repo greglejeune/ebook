@@ -72,6 +72,18 @@ code, kbd, pre, samp {
     padding: .8571429em 1.1428571em;
 }
 
+.prose pre code {
+    background-color: transparent;
+    border-radius: 0;
+    border-width: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: 400;
+    line-height: inherit;
+    padding: 0;
+}
+
 .prose-sm h2 {
     font-size: 1.4285714em;
     line-height: 1.4;
