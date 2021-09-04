@@ -123,6 +123,18 @@ code, kbd, pre, samp {
     padding: 0;
 }
 
+.prose hr {
+    border-color: #e5e7eb;
+    border-top-width: 1px;
+    margin-bottom: 3em;
+    margin-top: 3em;
+}
+
+.prose-sm hr {
+    margin-bottom: 2.8571429em;
+    margin-top: 2.8571429em;
+}
+
 .prose-sm h2 {
     font-size: 1.4285714em;
     line-height: 1.4;
