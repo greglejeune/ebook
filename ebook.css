@@ -105,6 +105,12 @@ code, kbd, pre, samp {
     padding: .8571429em 1.1428571em;
 }
 
+.prose code {
+    color: #111827;
+    font-size: .875em;
+    font-weight: 600;
+}
+
 .prose pre code {
     background-color: transparent;
     border-radius: 0;
