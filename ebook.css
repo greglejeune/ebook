@@ -64,6 +64,14 @@
     scroll-margin-top: 1.6em;
 }
 
+.prose-sm h3 {
+    font-size: 1.2857143em;
+    line-height: 1.5555556;
+    margin-bottom: .4444444em;
+    margin-top: 1.5555556em;
+    scroll-margin-top: 1.5555556em;
+}
+
 .prose-sm>:first-child {
     margin-top: 0;
 }
