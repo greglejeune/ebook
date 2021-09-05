@@ -156,6 +156,11 @@ code, kbd, pre, samp {
     width: .375em;
 }
 
+.prose strong {
+    color: #111827;
+    font-weight: 500;
+}
+
 .prose-sm ul>li:before {
     height: .3571429em;
     left: .2142857em;
