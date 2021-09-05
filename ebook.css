@@ -145,6 +145,24 @@ code, kbd, pre, samp {
     position: relative;
 }
 
+.prose ul>li:before {
+    background-color: #d1d5db;
+    border-radius: 50%;
+    content: "";
+    height: .375em;
+    left: .25em;
+    position: absolute;
+    top: .6875em;
+    width: .375em;
+}
+
+.prose-sm ul>li:before {
+    height: .3571429em;
+    left: .2142857em;
+    top: .67857em;
+    width: .3571429em;
+}
+
 .prose-sm ul {
     margin-bottom: 1.1428571em;
     margin-top: 1.1428571em;
