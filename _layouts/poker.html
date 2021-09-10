@@ -32,6 +32,16 @@
               <nav aria-label="Table of contents" class="text-sm max-w-[37.5rem] mx-auto lg:max-w-none lg:mx-0 relative lg:sticky lg:top-10" x-data="TableOfContents()" x-init="init()">
                 <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
                   <li class="space-y-3">
+                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Les fondamentaux</a>
+                    <ul role="list" class="space-y-3">
+                      {% for post in site.poker | where: "category", "fondamentaux" %}
+                      <li class="ml-4">
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Le Poker Apprivoisé</a>
                     <ul role="list" class="space-y-3">
                       {% for post in site.poker | where: "category", "artplay" %}
