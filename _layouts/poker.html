@@ -34,8 +34,8 @@
                   <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Les Fondamentaux</a>
                     <ul role="list" class="space-y-3">
-                      {% assign fond = site.poker | where: "category", "fondamentaux" %}
-                      {% for post in fond %}
+                      {% assign fondation = site.poker | where: "category", "fondamentaux" %}
+                      {% for post in fondation %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
@@ -46,7 +46,7 @@
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Le Poker Apprivoisé</a>
                     <ul role="list" class="space-y-3">
                       {% assign artplay = site.poker | where: "category", "artplay" %}
-                      {% for artplay in site.poker %}
+                      {% for post in artplay %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
