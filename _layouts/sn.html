@@ -1,0 +1,93 @@
+<html lang="en" class="h-full bg-white lg:bg-gray-50 js-focus-visible" data-js-focus-visible="">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://greglejeune.github.io/ebook/ebook.css" rel="stylesheet">
+    <title>ServiceNow | Grégory Lejeune</title>
+  </head>
+
+  <body class="font-sans antialiased text-gray-600 min-h-full flex flex-col ">
+
+    <header class="flex-none relative z-50 text-sm leading-6 font-medium ring-1 ring-gray-900 ring-opacity-5 shadow-sm py-5 bg-white">
+      <nav aria-label="Global" class="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center  flex-wrap sm:flex-nowrap  ">
+          <a href="https://greglejeune.github.io/ebook/poker/" class="flex-none text-gray-900">
+            <span class="sr-only">ServiceNow</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 24" class="w-auto h-6" fill="none"><g transform="matrix(.69936 0 0 .69936 2.865 29.5)"><path stroke="#323744" stroke-width=".886" stroke-linejoin="round" d="M22.677-39.73L36.95-25.473 22.694-11.199 8.42-25.456z"/><path d="M22.723-35.635l-7.813 7.822 4.356 4.35a3.348 3.348 0 013.338-3.121 3.348 3.348 0 013.347 3.35 3.348 3.348 0 010 .011l4.594-4.6z" fill="#323744" fill-rule="evenodd" stroke="#323744" stroke-width=".485" stroke-linejoin="round"/><circle cx="17.07" cy="-25.134" r="3.348" fill="#323744" stroke="#323744" stroke-width=".67" stroke-linejoin="round"/><circle cx="28.384" cy="-25.134" r="3.348" fill="#323744" stroke="#323744" stroke-width=".67" stroke-linejoin="round"/><path d="M22.732-20l-2.45 2.452 4.89.006.012-.01z" fill="#323744" fill-rule="evenodd" stroke="#323744" stroke-width=".152" stroke-linejoin="round"/><circle cx="19.3" cy="-23.318" r="3.348" fill="#fff"/><circle cx="26.071" cy="-23.318" r="3.348" fill="#fff"/><circle cx="22.733" cy="-28.603" r="3.348" fill="#fff"/><path d="M22.732-20l2.433-2.47-4.891.027-.011.011z" fill="#323744" fill-rule="evenodd" stroke="#323744" stroke-width=".152" stroke-linejoin="round"/><circle cx="21.277" cy="-23.359" r="1.44" fill="#323744"/><circle cx="24.102" cy="-23.323" r="1.44" fill="#323744"/><path d="M22.697-23.264l-.925.926 1.847.002.005-.004z" fill="#323744" fill-rule="evenodd" stroke="#323744" stroke-width=".057" stroke-linejoin="round"/></g><text style="line-height:1.25;-inkscape-font-specification:'Gotham Black, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="41.405" y="19.8" font-weight="500" font-size="24" font-family="Gotham Black" letter-spacing="0" word-spacing="0" fill="#010d1b"><tspan x="41.405" y="19.8">ServiceNow</tspan></text></svg>
+          </a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="flex-auto flex">
+
+      <div class="relative flex w-full">
+        <div class="hidden lg:block absolute top-0 bottom-0 right-0 left-1/2 bg-white"></div>
+        <div class="relative flex w-full max-w-container mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="w-full flex-none lg:grid lg:grid-cols-3 lg:gap-8">
+            <div class="bg-gray-50 lg:bg-transparent -mx-4 sm:-mx-6 lg:mx-0 py-12 sm:py-16 px-4 sm:px-6 lg:pl-0 lg:pr-8">
+              <nav aria-label="Table of contents" class="text-sm max-w-[37.5rem] mx-auto lg:max-w-none lg:mx-0 relative lg:sticky lg:top-10" x-data="TableOfContents()" x-init="init()">
+                <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
+                  <li class="space-y-3">
+                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Les Fondamentaux</a>
+                    <ul role="list" class="space-y-3">
+                      {% assign fondation = site.poker | where: "category", "fondamentaux" %}
+                      {% for post in fondation %}
+                      <li class="ml-4">
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  <li class="space-y-3">
+                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Le Poker Apprivoisé</a>
+                    <ul role="list" class="space-y-3">
+                      {% assign artplay = site.poker | where: "category", "artplay" %}
+                      {% for post in artplay %}
+                      <li class="ml-4">
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  <li class="space-y-3">
+                    <a href="" class="block font-medium text-teal-600 transition-colors duration-300">Formations</a>
+                    <ul role="list" class="space-y-3">
+                      <li class="ml-4">
+                        <a href="https://masterclass.kill-tilt.fr/formation/" class="block transition-colors duration-300">Masterclass Kill-Tilt</a>
+                      </li>
+                      <li class="ml-4">
+                        <a href="https://www.jmartini.fr/login/" class="block transition-colors duration-300">Masterclass Julien Martini</a>
+                      </li>
+                      <li class="ml-4">
+                        <a href="https://julienrqt.com/comment-crush-jusquen-nl100/" class="block transition-colors duration-300">Masterclass Julien RQT</a>
+                      </li>
+                      <li class="ml-4">
+                        <a href="https://www.udemy.com/course/bigblindcallvsbtnraise/" class="block transition-colors duration-300">Udemy</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+                <div class="absolute top-0 left-0 w-px bg-teal-500 origin-top transition-transform duration-300"></div>
+              </nav>
+            </div>
+            <div class="relative col-span-2 lg:-ml-8 bg-white lg:shadow-md">
+              <div class="hidden lg:block absolute top-0 bottom-0 -right-4 w-8 bg-white"></div>
+
+              <div class="relative py-16 lg:px-16">
+                <div class="prose prose-sm max-w-[37.5rem] mx-auto">
+                  {{content}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+  </body>
+
+</html>
