@@ -10,3 +10,5 @@ permalink: pretty
 collections:
   poker:
     output: true
+  servicenow:
+    output: true
