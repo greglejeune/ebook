@@ -4,6 +4,8 @@ category: "module"
 title: "System Properties"
 ---
 
-glide.xlsx.export.limit
-glide.ui.session_timeout
-glide.relationship.threshold
+<ul>
+  <li>glide.xlsx.export.limit</li>
+  <li>glide.ui.session_timeout</li>
+  <li>glide.relationship.threshold</li>
+</ul>
