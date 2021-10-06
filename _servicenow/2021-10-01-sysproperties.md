@@ -11,3 +11,7 @@ title: "System Properties"
   <li>glide.ui.session_timeout</li>
   <li>glide.relationship.threshold</li>
 </ul>
+
+<ul>
+  <li>glide.sm.default_mode</li>
+</ul>
