@@ -43,6 +43,17 @@
                     </ul>
                   </li>
                   <li class="space-y-3">
+                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Scripting</a>
+                    <ul role="list" class="space-y-3">
+                      {% assign sn = site.servicenow | where: "category", "script" %}
+                      {% for post in sn %}
+                      <li class="ml-4">
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Resources</a>
                     <ul role="list" class="space-y-3">
                       <li class="ml-4">
