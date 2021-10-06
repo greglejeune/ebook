@@ -4,9 +4,9 @@ category: "module"
 title: "Database Views"
 ---
 
-<h3 id="requirements">
+<h2>
   Exemple
-</h3>
+</h2>
 
 <p>Database View with Service Offering & Service Availability</p>
 
@@ -20,5 +20,15 @@ title: "Database Views"
     
     Service Availability [service_availability] (sa) 
     where_clause so_sys_id = sa_service_offering Left join true
+  </code>
+</pre>
+
+<h3>
+  Filter on specific date
+</h3>
+
+<pre>
+  <code>
+    &&  sa_start >= '2021-09-30 22:00:00'
   </code>
 </pre>
