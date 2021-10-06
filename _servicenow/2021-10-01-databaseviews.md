@@ -8,41 +8,11 @@ title: "Database Views"
   Exemple
 </h3>
 
-<p>
-Service Offering [service_offering]
-Service Availability [service_availability]
-where_clause
-so_sys_id = sa_service_offering
-</p>
+<p>Configuring View Table form : Left join</p>
 
 <pre>
-<code>
-Service Offering [service_offering]
-Service Availability [service_availability]
-where_clause
-so_sys_id = sa_service_offering
-</code>
+  <code>
+    Service Offering [service_offering] (so)
+    Service Availability [service_availability] (sa) where_clause so_sys_id = sa_service_offering
+  </code>
 </pre>
-
-<pre class="language-bash">
-<code class="language-bash">
-Service Offering [service_offering]
-Service Availability [service_availability]
-where_clause
-so_sys_id = sa_service_offering
-</code>
-</pre>
-
-<code>
-Service Offering [service_offering]
-Service Availability [service_availability]
-where_clause
-so_sys_id = sa_service_offering
-</code>
-
-<code class="language-bash">
-Service Offering [service_offering]
-Service Availability [service_availability]
-where_clause
-so_sys_id = sa_service_offering
-</code>
