@@ -12,6 +12,8 @@ title: "Database Views"
 
 <p>Configuring View Table form : Left join</p>
 
+<p><strong>Configure > Security Rules</strong> : Add Access Control on read operation</p>
+
 <pre>
   <code>
     Service Offering [service_offering] (so)
