@@ -10,9 +10,9 @@ title: "Database Views"
 
 <p>Database View with Service Offering & Service Availability</p>
 
-<p><strong>Configure > Form Layout</strong> : Configuring View Table form : Left join</p>
+<p><strong>Configure > Form Layout</strong> : Configuring View Table form on View Table : Left join</p>
 
-<p><strong>Configure > Security Rules</strong> : Add Access Control on read operation</p>
+<p><strong>Configure > Security Rules</strong> : Add Access Control on read operation on Service Availability</p>
 
 <pre>
   <code>
