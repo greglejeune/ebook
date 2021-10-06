@@ -8,6 +8,8 @@ title: "Database Views"
   Exemple
 </h3>
 
+<p>Database View vith Service Offering & Service Availability</p>
+
 <p>Configuring View Table form : Left join</p>
 
 <pre>
