@@ -9,7 +9,7 @@ title: "The nine quality processes of a project"
 
 <h3>Requirement Definition</h3>
 
-<p>
+<p style="text-align: justify;">
   In this process, we need to define the requirements of the project and analyze them. Those requirements need to
 be defined regarding the “Business Processes” of the company. For this we need to have:
 </p>
@@ -19,7 +19,7 @@ be defined regarding the “Business Processes” of the company. For this we ne
   <li>The “To be” situation</li>
 </ul>
 
-<p>
+<p style="text-align: justify;">
   The work that need to be done after is in two steps:
 </p>
 
@@ -36,7 +36,7 @@ be defined regarding the “Business Processes” of the company. For this we ne
   </li>
 </ul>
 
-<p>
+<p style="text-align: justify;">
   The goal is really to minimize the “Customization”, in a way to have a more standard Solution, that will be
 easily maintain from time to time, when the upgrade of the core solution will occur along the life of the software. It’s
 a good KPI to have the % of Customization, in a way to present the project. A goal below 5% is a good average, knowing
