@@ -75,6 +75,15 @@ code, kbd, pre, samp {
     line-height: 1.7142857;
 }
 
+.prose h1 {
+    color: #111827;
+    font-size: 1.75em;
+    font-weight: 800;
+    line-height: 1.9;
+    margin-bottom: 1.5em;
+    margin-top: 2.5em;
+}
+
 .prose h2 {
     color: #111827;
     font-size: 1.5em;
