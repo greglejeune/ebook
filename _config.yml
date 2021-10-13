@@ -12,3 +12,5 @@ collections:
     output: true
   servicenow:
     output: true
+  gdp:
+    output: true
