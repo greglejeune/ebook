@@ -12,5 +12,7 @@ collections:
     output: true
   servicenow:
     output: true
+  ccg:
+    outpu: true
   gdp:
     output: true
