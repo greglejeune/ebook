@@ -34,23 +34,13 @@
                   <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Decks en construction</a>
                     <ul role="list" class="space-y-3">
-                      {% assign articles = site.ccg%}
-                      {% for post in articles %}
+                      {% assign decksin = site.ccg%}
+                      {% for post in decksin | where: "category", "construction" %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
                       {% endfor %}
                     </ul>
-                  </li>
-                </ul>
-                <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
-                  <li class="space-y-3">
-                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Collection</a>
-                  </li>
-                </ul>
-                <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
-                  <li class="space-y-3">
-                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Game Play</a>
                   </li>
                 </ul>
                 <div class="absolute top-0 left-0 w-px bg-teal-500 origin-top transition-transform duration-300"></div>
