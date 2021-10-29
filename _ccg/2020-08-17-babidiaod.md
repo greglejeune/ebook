@@ -23,7 +23,7 @@ category: "construction"
 </div>
 
 <ul>
-  <li>1 * [BT5-043] KAÏO DE L’OUEST, LE VEILLEUR</li>
+  <li>2 * [BT5-043] KAÏO DE L’OUEST, LE VEILLEUR</li>
 </ul>
 
 <!-- <img src="https://www.dbscardgame.fr/getimg/2296"> -->
