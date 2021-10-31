@@ -34,8 +34,8 @@
                   <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Decks en construction</a>
                     <ul role="list" class="space-y-3">
-                      {% assign decksin = site.ccg%}
-                      {% for post in decksin | where: "category", "construction" %}
+                      {% assign decksin = site.ccg | where: "category", "construction" %}
+                      {% for post in decksin %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
@@ -45,8 +45,8 @@
                   <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Collection</a>
                     <ul role="list" class="space-y-3">
-                      {% assign collect = site.ccg%}
-                      {% for post in collect | where: "category", "collection" %}
+                      {% assign collect = site.ccg | where: "category", "collection" %}
+                      {% for post in collect %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
