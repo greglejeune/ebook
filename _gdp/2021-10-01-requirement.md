@@ -1,6 +1,7 @@
 ---
 layout: gdp
 title: "Requirement Definition"
+category: process
 ---
 
 <h3>Requirement Definition</h3>
