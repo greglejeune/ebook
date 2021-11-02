@@ -34,7 +34,7 @@
                   <li class="space-y-3">
                     <a href="" class="block font-medium text-gray-900 transition-colors duration-300">The nine quality processes of a project</a>
                     <ul role="list" class="space-y-3">
-                      {% assign articles = site.gdp%}
+                      {% assign articles = site.gdp | where: "category", "process" %}
                       {% for post in articles %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
