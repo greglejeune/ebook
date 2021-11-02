@@ -1,11 +1,7 @@
 ---
 layout: gdp
-title: "The nine quality processes of a project"
+title: "Requirement Definition"
 ---
-
-<h1>The nine quality processes of a project</h1>
-
-<h2>Review of different processes</h2>
 
 <h3>Requirement Definition</h3>
 
