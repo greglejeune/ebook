@@ -1,6 +1,7 @@
 ---
 layout: gdp
 title: Architecture
+category: process
 ---
 
 <h3>Architecture</h3>
