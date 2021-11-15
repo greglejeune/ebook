@@ -14,5 +14,7 @@ collections:
     output: true
   ccg:
     output: true
+  life:
+    output: true
   gdp:
     output: true
