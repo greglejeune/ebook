@@ -32,21 +32,10 @@
               <nav aria-label="Table of contents" class="text-sm max-w-[37.5rem] mx-auto lg:max-w-none lg:mx-0 relative lg:sticky lg:top-10" x-data="TableOfContents()" x-init="init()">
                 <ul role="list" class="space-y-8 border-l border-gray-200 pl-6">
                   <li class="space-y-3">
-                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Les Fondamentaux</a>
+                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Poker Army</a>
                     <ul role="list" class="space-y-3">
-                      {% assign fondation = site.poker | where: "category", "fondamentaux" %}
+                      {% assign fondation = site.poker | where: "category", "baki" %}
                       {% for post in fondation %}
-                      <li class="ml-4">
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
-                  <li class="space-y-3">
-                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Le Poker Apprivoisé</a>
-                    <ul role="list" class="space-y-3">
-                      {% assign artplay = site.poker | where: "category", "artplay" %}
-                      {% for post in artplay %}
                       <li class="ml-4">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
                       </li>
@@ -64,6 +53,9 @@
                       </li>
                       <li class="ml-4">
                         <a href="https://julienrqt.com/comment-crush-jusquen-nl100/" class="block transition-colors duration-300">Masterclass Julien RQT</a>
+                      </li>
+                      <li class="ml-4">
+                        <a href="https://pokerarmy.club.hotmart.com/index" class="block transition-colors duration-300">Poker Army</a>
                       </li>
                       <li class="ml-4">
                         <a href="https://www.udemy.com/course/bigblindcallvsbtnraise/" class="block transition-colors duration-300">Udemy</a>
