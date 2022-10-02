@@ -4,9 +4,7 @@ title: "Iniation à la Poker Army"
 category: baki
 ---
 
-<p style="text-align: justify;">
-  <strong>Il faut maximiser vs les récréatifs !</strong>
-</p>
+<h1>Il faut maximiser vs les récréatifs !</h1>
 
 <ul>
   <li>Comprendre les adversaires</li>
