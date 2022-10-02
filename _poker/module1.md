@@ -1,7 +1,5 @@
 ---
 layout: poker
-title: "Initiation"
+title: "Iniation à la Poker Army"
 category: baki
 ---
-
-Test
