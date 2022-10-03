@@ -49,7 +49,14 @@ category: baki
       <li>40%</li>
     </ul>
   </li>
-  <li>Percussion du flop</li>
+  <li>
+    Percussion du flop
+    <ul>
+      <li>Faiblement</li>
+      <li>Moyennement</li>
+      <li>Fortement</li>
+    </ul>
+  </li>
   <li>
     Objectifs de la main
     <ul>
