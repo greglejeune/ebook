@@ -9,24 +9,23 @@ source: https://www.youtube.com/watch?v=kW6Ldu5o6IQ
 
 ## Ouverture
 
-- Range pour la 50, sim avec le rake de la 50
-- On ne va pas vouloir jouer des mains EV0 car pas vraiment d'intérêt (66 LJ)
-- Personne n'est allé voir les winrates des limp (en SB) vs Fish (en BB)
-  - Les fish iso moins au lieu de 40
-  - Il va faire des erreurs postflop
+- Il faut adapter les ranges théoriques à la limite que l'on joue et au rake qui est pratiqué
+- On ne va pas vouloir jouer des mains EV0, comme 66 au LJ par exemple, car il n'y a pas vraiment d'intéret à équilibrer notre range
+- Personne n'est allé voir les winrates des limp (en SB) vs Fish (en BB), mais c'est EV+
+  - Les fish iso moins les limps et vont faire des erreurs postflop
 
 ## BB défense et 3Bet BB
 
 - Contre un humain, pas besoin de fréquencer les ranges
-- On 3Bet plus
-- Gros 3Bet vs BTN et vs SB, 
-- Les gens under 4Bet BB vs BTN et font des erreurs postflop
+- On va 3Bet plus avec le rake des moyennes limites
+  - Gros 3Bet vs BTN et vs SB
+  - Les gens under 4Bet, BB vs BTN par exemple, et font des erreurs postflop
 
 ## 3Bet IP vs OOP
 
 - Pas de range de flat
 - UTG et MP vont under 4Bet
-- On réalisera plus notre équité postflop car ils check/raise moins
+- On réalisera plus notre équité postflop car la population check/raise moins
 
 ## 3 Handed 3B & 4B
 
