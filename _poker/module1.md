@@ -14,5 +14,5 @@ category: pu
 
 ## La théorie est sous-optimale vs un humain
 
-<p style="text-align: justify;">Il faut donc se déséquilibrer, mais comment ?</p>
+<p style="text-align: justify;">Il faut donc se déséquilibrer, <span>mais comment ?</span></p>
 
