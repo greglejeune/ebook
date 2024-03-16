@@ -42,17 +42,6 @@
                       {% endfor %}
                     </ul>
                   </li>
-                  <li class="space-y-3">
-                    <a href="" class="block font-medium text-gray-900 transition-colors duration-300">Collection</a>
-                    <ul role="list" class="space-y-3">
-                      {% assign collect = site.ccg | where: "category", "collection" %}
-                      {% for post in collect %}
-                      <li class="ml-4">
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="block transition-colors duration-300">{{ post.title }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
                 </ul>
                 <div class="absolute top-0 left-0 w-px bg-teal-500 origin-top transition-transform duration-300"></div>
               </nav>
