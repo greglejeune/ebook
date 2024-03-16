@@ -43,3 +43,8 @@ source: https://www.youtube.com/watch?v=kW6Ldu5o6IQ
 ## Vs 3B Blinds
 
 - 3 Handed + EP
+
+## Squeeze
+
+- Profil dépendant
+
