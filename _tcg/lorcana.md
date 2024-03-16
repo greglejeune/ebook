@@ -1,7 +1,8 @@
 ---
 layout: tcg
-title: Lorcana
+title: "Comment gagner à Lorcana ?"
 category: strategy
 ---
 
-# Loracana
+# Comment gagner à Lorcana ?
+
