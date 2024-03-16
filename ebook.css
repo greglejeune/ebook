@@ -243,6 +243,6 @@ code[class*=language-], pre[class*=language-] {
 }
 
 p>span {
-  background-image: linear-gradient(180deg,transparent 70%,#b2f5ea 0);
+  background-image: linear-gradient(180deg,transparent 70%,#EB3324 0);
   color: #000;
 }
