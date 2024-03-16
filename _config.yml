@@ -12,7 +12,7 @@ collections:
     output: true
   servicenow:
     output: true
-  ccg:
+  tcg:
     output: true
   life:
     output: true
