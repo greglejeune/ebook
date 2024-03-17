@@ -9,7 +9,7 @@ category: strategy
 - Il faut avoir un plan pour gagner
   - De par la construction de son deck, par exemple : faire défausser l’adversaire, épuiser le paquet adverse
   - Par rapport au profil de deck de son adversaire : Jouer avec ses points faibles et nos points forts
-  - <span>Il faut donc apprendre les forces et faiblesses des différents decks</span>
+  - **Il faut donc apprendre les forces et faiblesses des différents decks**
 - Beaucoup de choses se jouent au mulligan
 - Il faut piocher des cartes pour avoir plusieurs solutions possibles
 - Il faut soit lorer rapidement ou tenir le board
