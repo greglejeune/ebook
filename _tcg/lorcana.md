@@ -14,3 +14,5 @@ category: strategy
 - Il faut piocher des cartes pour avoir plusieurs solutions possibles
 - Il faut soit lorer rapidement ou tenir le board
 - Il faut être attentif et surveiller ce que fait l'adversaire
+
+<p style="text-align: justify;">Il faut donc <strong>se déséquilibrer</strong>, mais <span>comment ?</span></p>
