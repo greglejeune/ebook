@@ -39,3 +39,4 @@ category: process
   - Sélectionne les options techniques les plus adéquates pour la conception d'applications, tout en optimisant l'équilibre entre coûts et qualité
   - Conçoit les structures de données et construit les modèles de structuration des systèmes en fonction des résultats d'analyse obtenus par le biais de différents langages de modélisation
   - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
+
