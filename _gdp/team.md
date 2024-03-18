@@ -39,4 +39,17 @@ category: process
   - Sélectionne les options techniques les plus adéquates pour la conception d'applications, tout en optimisant l'équilibre entre coûts et qualité
   - Conçoit les structures de données et construit les modèles de structuration des systèmes en fonction des résultats d'analyse obtenus par le biais de différents langages de modélisation
   - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
-
+- Tests :
+  - Met au point et exécute des procédures d'essai systématiques pour les systèmes informatiques ou les exigences d'utilisabilité du client afin d'établir la conformité avec les spécifications de conception
+  - S'assure que les composants ou systèmes, nouveauxou mis à jour, fonctionnent comme prévu
+  - Garantit la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
+- Production de la documentation : Adapte le niveau de détail de manière à répondre aux besoins du public ciblé
+  - Produit des documents
+  - S'assure que la documentation est conforme aux besoins techniques et aux besoins des processus et que les documents existants sont à jour
+- Support utilisateur : Gère le processus de support
+  - Planifie l'allocation des ressources pour obtenir le niveau de service défi
+- Support aux changements : Assure l'intégrité du système en assurant les mises à jour fonctionnelles, les ajouts de logiciels ou de matériel et les opérations de maintenance
+  - Évalue, met en œuvre et accompagne l'évolution d'une solution en analysant les changements et leur impact
+  - Assure un contrôle et une planification efficaces des modifications
+  - Réduit à un minimum les interruptions de service dues aux basculements informatiques
+ 
