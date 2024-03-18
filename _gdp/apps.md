@@ -24,6 +24,7 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
 - Gestion de la relation avec les partenaires internes ou externes
   - Établir des relations de confiance avec les partenaires
   - Gèrer des relations simples et pluridisciplinaires avec des parties prenantes multiples
+  - Communiquer auprès des directions métier et maîtrises d’ouvrages
 - Conception des applications
   - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
   - Sélectionner les options techniques les plus adéquates
