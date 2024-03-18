@@ -31,6 +31,9 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Adapter le niveau de détail de manière à répondre aux besoins du public ciblé
   - S'assurer que les documents existants sont valides et à jour
 - Support aux changements
+  - Évaluer, mettre en œuvre et accompagner l'évolution d'une solution
+  - Assurer un contrôle et une planification efficaces des modifications afin d'éviter que de multiples mises à niveau n'aient des effets imprévisibles
+  - Réduire à un minimum les interruptions de service
 - Gestion de la qualité
 - Gestion des risques
 - Support utilisateur & fourniture de services
