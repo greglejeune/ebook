@@ -27,10 +27,15 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Mettre au point et exécuter des procédures de test
   - S'assurer que les composants ou systèmes, nouveaux ou mis à jour, fonctionnent comme prévu
 - Production de la documentation
+  - Produire des documents sur les systèmes applicatifs
+  - Adapter le niveau de détail de manière à répondre aux besoins du public ciblé
+  - S'assurer que les documents existants sont valides et à jour
 - Support aux changements
 - Gestion de la qualité
 - Gestion des risques
 - Support utilisateur & fourniture de services
+  - Répondre aux demandes et problèmes des utilisateurs
+  - S'assurer de la résolution des incidents ou les fait remonter
 - Gestion des problèmes
 - Formation
 
