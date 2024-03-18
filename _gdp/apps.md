@@ -23,6 +23,7 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Livrer les projets dans les temps, respecter le budget et les exigences initiales, en tenant compte des circonstances fluctuante
 - Gestion de la relation avec les partenaires internes ou externes
   - Établir des relations de confiance avec les partenaires
+  - Gèrer des relations simples et pluridisciplinaires avec des parties prenantes multiples
 - Conception des applications
   - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
   - Sélectionner les options techniques les plus adéquates
@@ -32,8 +33,11 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
 - Développement d'applications
   -  Concevoir les structures de données
 - Déploiement de solutions
-  - S'engager dans la mise en œuvre de solutions ou son processus de configuration
+  - S'engager dans la mise en œuvre de solutions
+  - Effectuer les interventions programmées nécessaires à la mise en œuvre des solutions et des services, y compris l'installation, la sécurisation, la mise à jour ou la mise hors service
 - Intégration
+  - Intègrer des composants logiciels dans un système existant ou totalement nouveau
+  - Configure les logiciels pour assurer l'interopérabilité des composants du système
 - Tests
   - Mettre au point et exécuter des procédures de test
   - S'assurer que les composants ou systèmes, nouveaux ou mis à jour, fonctionnent comme prévu
@@ -61,6 +65,8 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Adopter une approche proactive pour éviter ou identifier l'origine des problèmes
   - Mettre en place un système de connaissances basé sur la récurrence d'erreurs habituelles
 - Formation
+  - Organiser l'identification des besoins en matière de formation
+  - Planifier et réaliser les sessions de formation
 - Achats
   - Définition des exigences
   - Identification de fournisseurs
