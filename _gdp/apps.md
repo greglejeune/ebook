@@ -7,13 +7,19 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
 
 ## EQUIPE
 
+
+
 ### ACTIVITÉS ET TÂCHES
 
 - Identification des besoins
 - Gestion des projets et du portefeuille de projets
 - Gestion de la relation avec les partenaires internes ou externes
 - Conception des applications
+  - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
+  - Sélectionner les options techniques les plus adéquates
+  - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
 - Développement d'applications
+  -  Concevoir les structures de données
 - Déploiement de solutions
 - Intégration
 - Tests
