@@ -18,11 +18,14 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
   - Sélectionner les options techniques les plus adéquates
   - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
+  - Garantir la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
 - Développement d'applications
   -  Concevoir les structures de données
 - Déploiement de solutions
 - Intégration
 - Tests
+  - Mettre au point et exécuter des procédures de test
+  - S'assurer que les composants ou systèmes, nouveaux ou mis à jour, fonctionnent comme prévu
 - Production de la documentation
 - Support aux changements
 - Gestion de la qualité
