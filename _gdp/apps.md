@@ -39,7 +39,12 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
 - Support utilisateur & fourniture de services
   - Répondre aux demandes et problèmes des utilisateurs
   - S'assurer de la résolution des incidents ou les fait remonter
+  - Assurer la fourniture des services
 - Gestion des problèmes
+  - Gèrer le cycle de vie des incidents et des problèmes
+  - Identifier l'origine des incidents et les résout
+  - Adopter une approche proactive pour éviter ou identifier l'origine des problèmes
+  - Mettre en place un système de connaissances basé sur la récurrence d'erreurs habituelles
 - Formation
 
 ### LIVRABLES
