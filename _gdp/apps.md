@@ -8,7 +8,15 @@ category: process
 
 ### ACTIVITÉS ET TÂCHES
 
-- 
+- Identification des besoins
+- Conception des applications
+- Tests
+- Production de la documentation
+- Support aux changements
+- Gestion de la qualité
+- Gestion des risques
+- Support utilisateur & fourniture de services
+- Gestion des problèmes
 
 ### LIVRABLES
 
