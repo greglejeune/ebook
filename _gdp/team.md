@@ -46,10 +46,27 @@ category: process
 - Production de la documentation : Adapte le niveau de détail de manière à répondre aux besoins du public ciblé
   - Produit des documents
   - S'assure que la documentation est conforme aux besoins techniques et aux besoins des processus et que les documents existants sont à jour
-- Support utilisateur : Gère le processus de support
+- Support utilisateur : Gère le processus de support et de fourniture de services
   - Planifie l'allocation des ressources pour obtenir le niveau de service défi
+  - Assure la fourniture des services
 - Support aux changements : Assure l'intégrité du système en assurant les mises à jour fonctionnelles, les ajouts de logiciels ou de matériel et les opérations de maintenance
   - Évalue, met en œuvre et accompagne l'évolution d'une solution en analysant les changements et leur impact
   - Assure un contrôle et une planification efficaces des modifications
   - Réduit à un minimum les interruptions de service dues aux basculements informatiques
+  - Prend des mesures proactives pour assurer la stabilité et la sécurité des applications
+- Gestion des problèmes : Assure l'encadrement et assume la responsabilité de l'ensemble du processus de gestion des problèmes
+  - Gère le cycle de vie des incidents et des problèmes
+  - Identifie l'origine des incidents et les résout
+  - Met en place un système de connaissances basé sur la récurrence d'erreurs habituelles
+- Identification des besoins : Établit des relations de confiance avec les clients et les aide à clarifier leurs besoins
+  - Écoute attentivement les clients internes et externes, formule et clarifie leurs besoins
+  - Gère les relations avec toutes les parties prenantes pour garantir que les solutions et les services sont conformes aux exigences métier
+  - Propose différentes solutions en effectuant des analyses contextuelles
+  - S'engage dans sa mise en œuvre d'une solution ou dans son processus de configuration
+- Gestion des risques : Comprend et applique les principes de gestion des risques et recherche des solutions permettant de limiter les risques identifiés
+  - Met en œuvre la gestion des risques
+  - Évalue les risques encourus
+- Gestion de la qualité : Évalue les indicateurs et les processus de gestion de la qualité et propose des actions correctives
+  - Garantit la qualité des données
+
  
