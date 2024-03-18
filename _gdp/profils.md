@@ -4,6 +4,20 @@ title: "Les profils"
 category: process
 ---
 
+## CHEF DE PROJET
+
+### COMPÉTENCES PRINCIPALES
+
+- Gestion des projets et du portefeuille de projets
+  - Met en œuvre des plans d'action dans le cadre d'un programme de changement
+  - Planifie, dirige et gère un ou plusieurs projets
+  - Définit les tâches, les responsabilités, les points critiques, les ressources, les interfaces et le budget, optimise les coûts et les délais tout en ciblant un niveau de qualité élevé
+- Gestion de la relation
+  - Gère des relations simples et pluridisciplinaires avec des parties prenantes multiples
+  - Met en place de bonnes relations de travail au sein d'un environnement mettant en jeu diverses parties prenantes, en facilitant la collaboration d'équipes pluridisciplinaires
+  - Entretient une communication régulière avec les collègues, partenaires et fournisseurs, faisant preuve de compréhension pour les différents contextes et perspectives
+  - Garantit que les besoins, les préoccupations et les réclamations des différentes parties prenantes sont bien compris et traités
+
 ## GESTIONNAIRE D’APPLICATIONS
 
 ### ACTIVITÉS ET TÂCHES
