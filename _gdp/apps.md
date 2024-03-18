@@ -20,6 +20,7 @@ category: process
 - Gestion des risques
 - Support utilisateur & fourniture de services
 - Gestion des problèmes
+- Formation
 
 ### LIVRABLES
 
