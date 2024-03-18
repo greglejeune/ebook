@@ -12,16 +12,23 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
 ### ACTIVITÉS ET TÂCHES
 
 - Identification des besoins
+  - Écouter attentivement les clients internes
+  - Formuler et clarifier leurs besoins
+  - Proposer différentes solutions en effectuant des analyses
+  - Conseiller les clients internes pour le choix d'une solution appropriée
 - Gestion des projets et du portefeuille de projets
 - Gestion de la relation avec les partenaires internes ou externes
+  - Établir des relations de confiance avec les partenaires
 - Conception des applications
   - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
   - Sélectionner les options techniques les plus adéquates
   - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
   - Garantir la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
+  - S'engager dans le processus de configuration de l'application
 - Développement d'applications
   -  Concevoir les structures de données
 - Déploiement de solutions
+  - S'engager dans la mise en œuvre de solutions ou son processus de configuration
 - Intégration
 - Tests
   - Mettre au point et exécuter des procédures de test
@@ -35,7 +42,10 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Assurer un contrôle et une planification efficaces des modifications afin d'éviter que de multiples mises à niveau n'aient des effets imprévisibles
   - Réduire à un minimum les interruptions de service
 - Gestion de la qualité
+  - Garantir la qualité des données
 - Gestion des risques
+  - Évaluer les risques encourus par les activités
+  - Documenter les risques potentiels et les plans d'action pour les maîtriser
 - Support utilisateur & fourniture de services
   - Répondre aux demandes et problèmes des utilisateurs
   - S'assurer de la résolution des incidents ou les fait remonter
