@@ -32,6 +32,9 @@ category: process
 - Note de cadrage
 - Cahier des charges
 - Spécifications fonctionnelles et techniques
+- Les suivis d’avancement
+- Planning
+- Compte-rendu
 - Procès-verbal de recette
 
 ### INDICATEURS DE PERFORMANCE
@@ -39,3 +42,5 @@ category: process
 - Nombre de demandes d'évolution ou de correction
 - Degré de satisfaction du client
 - Niveau de disponibilité et de performance des systèmes
+- Respect des coûts et du budget
+- Mesure du projet : Planifié vs réalisé
