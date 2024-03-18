@@ -10,7 +10,7 @@ category: process
 
 - Identification des besoins
 - Gestion des projets et du portefeuille de projets
-- Gestion de la relation avec les partenaires
+- Gestion de la relation avec les partenaires internes ou externes
 - Conception des applications
 - Développement d'applications
 - Déploiement de solutions
