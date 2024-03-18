@@ -17,6 +17,10 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Proposer différentes solutions en effectuant des analyses
   - Conseiller les clients internes pour le choix d'une solution appropriée
 - Gestion des projets et du portefeuille de projets
+  - Mettre en œuvre des plans d'action dans le cadre d'un programme de changement
+  - Planifier, diriger et gèrer un ou plusieurs projets
+  - Définir les tâches, les responsabilités, les points critiques, les ressources, les interfaces et le budget
+  - Livrer les projets dans les temps, respecter le budget et les exigences initiales, en tenant compte des circonstances fluctuante
 - Gestion de la relation avec les partenaires internes ou externes
   - Établir des relations de confiance avec les partenaires
 - Conception des applications
@@ -57,6 +61,10 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Adopter une approche proactive pour éviter ou identifier l'origine des problèmes
   - Mettre en place un système de connaissances basé sur la récurrence d'erreurs habituelles
 - Formation
+- Achats
+  - Définition des exigences
+  - Identification de fournisseurs
+  - Analyse des propositions
 
 ### LIVRABLES
 
