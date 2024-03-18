@@ -12,6 +12,7 @@ category: process
 - Gestion des projets et du portefeuille de projets
 - Gestion de la relation avec les partenaires
 - Conception des applications
+- Développement d'applications
 - Tests
 - Production de la documentation
 - Support aux changements
