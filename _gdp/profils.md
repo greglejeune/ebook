@@ -4,6 +4,8 @@ title: "Les profils"
 category: process
 ---
 
+## RESPONSABLE DES SYSTÈMES APPLICATIFS
+
 ## CHEF DE PROJET
 
 ### COMPÉTENCES PRINCIPALES
