@@ -1,6 +1,6 @@
 ---
 layout: gdp
-title: "Equipe"
+title: "Les profils"
 category: process
 ---
 
