@@ -31,7 +31,11 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Garantir la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
   - S'engager dans le processus de configuration de l'application
 - Développement d'applications
-  -  Concevoir les structures de données
+  - Développer une application ou un programme adapté aux besoins du client
+  - Concevoir les structures de données
+  - Coder, déboguer, contrôler, documenter et communiquer sur les étapes de développement
+  - Choisir les options techniques appropriées au développement comme la réutilisation, l'amélioration ou la reconfiguration de composants existants
+  - Valider les résultats avec les représentants des utilisateurs, intègrer et mettre en service la solution dans son ensemble
 - Déploiement de solutions
   - S'engager dans la mise en œuvre de solutions
   - Effectuer les interventions programmées nécessaires à la mise en œuvre des solutions et des services, y compris l'installation, la sécurisation, la mise à jour ou la mise hors service
