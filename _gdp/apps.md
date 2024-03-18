@@ -13,6 +13,8 @@ category: process
 - Gestion de la relation avec les partenaires
 - Conception des applications
 - Développement d'applications
+- Déploiement de solutions
+- Intégration
 - Tests
 - Production de la documentation
 - Support aux changements
@@ -27,6 +29,10 @@ category: process
 - Suivi des évolutions de ses systèmes applicatifs
 - Indicateurs de performance de(s) l’application(s)
 - Documentation applicative
+- Note de cadrage
+- Cahier des charges
+- Spécifications fonctionnelles et techniques
+- Procès-verbal de recette
 
 ### INDICATEURS DE PERFORMANCE
 
