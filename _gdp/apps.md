@@ -43,6 +43,7 @@ source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclatur
   - Réduire à un minimum les interruptions de service
 - Gestion de la qualité
   - Garantir la qualité des données
+  - Suggèrer des recommandations
 - Gestion des risques
   - Évaluer les risques encourus par les activités
   - Documenter les risques potentiels et les plans d'action pour les maîtriser
