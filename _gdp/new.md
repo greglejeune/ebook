@@ -5,19 +5,20 @@ category: process
 source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclature_des_profils_metiers_SI_complete_FR_2022v4.1.pdf"
 ---
 
-## RESPONSABLE DOMAINE APPLICATIF
+## RESPONSABLE SYSTEME APPLICATIF
 
-Il dirige, anime, coordonne, et gère un domaine applicatif pour atteindre les objectifs fixés dans le cadre de la stratégie définie pour son périmètre.
-Il est force de proposition des grandes évolutions de son domaine applicatif dans le cadre de la stratégie déterminée par le DSI.
+Il assure et coordonne les activités d'évolution et de maintenance corrective et applicative du système dont il est responsable.
+Il en assure aussi le support et le conseil.
+Il est force de proposition des grandes évolutions de son système dans le cadre de la stratégie déterminée par le DSI.
 Il participe à la définition d’une politique de « faire ou faire faire » et la met en œuvre.
 Il est le garant de prestations informatiques produites en qualité et sécurité pour le coût optimum.
 
 ### ACTIVITÉS ET TÂCHES
 
 - Développement du personnel
-  - Coordonne, gère et anime le personnel de son entité
-  - Répartit la charge de travail, en volume et en calendrier, en fonction des prévisions d’évolution des effectifs et des compétences de son entité
-  - Dirige, organise, planifie et contrôle les activités de l’entité
+  - Coordonne, gère et anime le personnel de son équipe
+  - Répartit la charge de travail, en volume et en calendrier, en fonction des prévisions d’évolution des effectifs et des compétences de son équipe
+  - Dirige, organise, planifie et contrôle les activités de son équipe
 - Gestion des projets et du portefeuille de projets
   - Établit et suit le plan de charge
   - Négocie les objectifs et les moyens de l’entité
