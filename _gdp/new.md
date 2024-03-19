@@ -27,14 +27,30 @@ Il est le garant de prestations informatiques produites en qualité et sécurit�
   - Communique auprès des directions métier et maîtrises d’ouvrages clientes
   - Communique au sein de son équipe
 - Identification des besoins
+  - Écouter attentivement les clients internes
+  - Proposer différentes solutions en effectuant des analyses
+  - Conseiller les clients internes pour le choix d'une solution appropriée
 - Conception des applications
+  - S'engager dans le processus de configuration de l'application
+  - Sélectionner les options techniques les plus adéquates
+  - Garantir la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
 - Intégration
+  - Intègrer des composants logiciels dans un système existant ou totalement nouveau
+  - Configure les logiciels pour assurer l'interopérabilité des composants du système
 - Tests
+  - Mettre au point et exécuter des procédures de test
+  - S'assurer que les composants ou systèmes, nouveaux ou mis à jour, fonctionnent comme prévu
 - Production de la documentation
+  - Produire des documents sur les systèmes applicatifs
+  - S'assurer que les documents existants sont valides et à jour
 - Support aux changements
+  - Évaluer, mettre en œuvre et accompagner l'évolution d'une solution
 - Support utilisateur & fourniture de services
+  - Répondre aux demandes et problèmes des utilisateurs
 - Formation
 - Achats
+  - Identification de fournisseurs
+  - Analyse des propositions
 
 ### LIVRABLES
 
