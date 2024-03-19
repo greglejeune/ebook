@@ -1,99 +1,39 @@
 ---
 layout: gdp
-title: "Equipe Application"
+title: "Nouveau"
 category: process
 source : "https://www.cigref.fr/wp/wp-content/uploads/2023/03/Cigref_Nomenclature_des_profils_metiers_SI_complete_FR_2022v4.1.pdf"
 ---
 
-## EQUIPE
+## RESPONSABLE DOMAINE APPLICATIF
 
-
+Il dirige, anime, coordonne, et gère un domaine applicatif pour atteindre les objectifs fixés dans le cadre de la stratégie définie pour son périmètre.
+Il est force de proposition des grandes évolutions de son domaine applicatif dans le cadre de la stratégie déterminée par le DSI.
+Il participe à la définition d’une politique de « faire ou faire faire » et la met en œuvre.
+Il est le garant de prestations informatiques produites en qualité et sécurité pour le coût optimum.
 
 ### ACTIVITÉS ET TÂCHES
 
-- Identification des besoins
-  - Écouter attentivement les clients internes
-  - Formuler et clarifier leurs besoins
-  - Proposer différentes solutions en effectuant des analyses
-  - Conseiller les clients internes pour le choix d'une solution appropriée
+- Développement du personnel
+  - Coordonne, gère et anime le personnel de son entité
+  - Répartit la charge de travail, en volume et en calendrier, en fonction des prévisions d’évolution des effectifs et des compétences de son entité
+  - Dirige, organise, planifie et contrôle les activités de l’entité
 - Gestion des projets et du portefeuille de projets
-  - Mettre en œuvre des plans d'action dans le cadre d'un programme de changement
-  - Planifier, diriger et gèrer un ou plusieurs projets
-  - Définir les tâches, les responsabilités, les points critiques, les ressources, les interfaces et le budget
-  - Livrer les projets dans les temps, respecter le budget et les exigences initiales, en tenant compte des circonstances fluctuante
-- Gestion de la relation avec les partenaires internes ou externes
-  - Établir des relations de confiance avec les partenaires
-  - Gèrer des relations simples et pluridisciplinaires avec des parties prenantes multiples
-  - Communiquer auprès des directions métier et maîtrises d’ouvrages
-- Conception des applications
-  - Mettre en œuvre des applications en accord avec la politique SI et les besoins des métiers
-  - Sélectionner les options techniques les plus adéquates
-  - S'assurer que tous les aspects tiennent compte de l'interopérabilité, des facilités d'utilisation, de l'accessibilité et la sécurité
-  - Garantir la conformité aux spécifications internes, externes, ce qui inclut les normes de sécurité, d'utilisabilité, de performance, de fiabilité et de compatibilité
-  - S'engager dans le processus de configuration de l'application
-- Développement d'applications
-  - Développer une application ou un programme adapté aux besoins du client
-  - Concevoir les structures de données
-  - Coder, déboguer, contrôler, documenter et communiquer sur les étapes de développement
-  - Choisir les options techniques appropriées au développement comme la réutilisation, l'amélioration ou la reconfiguration de composants existants
-  - Valider les résultats avec les représentants des utilisateurs, intègrer et mettre en service la solution dans son ensemble
-- Déploiement de solutions
-  - S'engager dans la mise en œuvre de solutions
-  - Effectuer les interventions programmées nécessaires à la mise en œuvre des solutions et des services, y compris l'installation, la sécurisation, la mise à jour ou la mise hors service
-- Intégration
-  - Intègrer des composants logiciels dans un système existant ou totalement nouveau
-  - Configure les logiciels pour assurer l'interopérabilité des composants du système
-- Tests
-  - Mettre au point et exécuter des procédures de test
-  - S'assurer que les composants ou systèmes, nouveaux ou mis à jour, fonctionnent comme prévu
-- Production de la documentation
-  - Produire des documents sur les systèmes applicatifs
-  - Adapter le niveau de détail de manière à répondre aux besoins du public ciblé
-  - S'assurer que les documents existants sont valides et à jour
-- Support aux changements
-  - Évaluer, mettre en œuvre et accompagner l'évolution d'une solution
-  - Assurer un contrôle et une planification efficaces des modifications afin d'éviter que de multiples mises à niveau n'aient des effets imprévisibles
-  - Réduire à un minimum les interruptions de service
-- Gestion de la qualité
-  - Garantir la qualité des données
-  - Suggèrer des recommandations
-- Gestion des risques
-  - Évaluer les risques encourus par les activités
-  - Documenter les risques potentiels et les plans d'action pour les maîtriser
-- Support utilisateur & fourniture de services
-  - Répondre aux demandes et problèmes des utilisateurs
-  - S'assurer de la résolution des incidents ou les fait remonter
-  - Assurer la fourniture des services
-- Gestion des problèmes
-  - Gèrer le cycle de vie des incidents et des problèmes
-  - Identifier l'origine des incidents et les résout
-  - Adopter une approche proactive pour éviter ou identifier l'origine des problèmes
-  - Mettre en place un système de connaissances basé sur la récurrence d'erreurs habituelles
-- Formation
-  - Organiser l'identification des besoins en matière de formation
-  - Planifier et réaliser les sessions de formation
-- Achats
-  - Définition des exigences
-  - Identification de fournisseurs
-  - Analyse des propositions
+  - Établit et suit le plan de charge
+  - Négocie les objectifs et les moyens de l’entité
+  - Garantit la cohérence des projets et applications de son périmètre de responsabilité
+  - Analyse et propose des solutions pour améliorer continuellement la productivité de son entité
+- Gestion de la relation client
+  - Communique auprès des directions métier et maîtrises d’ouvrages clientes
+  - Communique au sein de son équipe
 
 ### LIVRABLES
 
-- Suivi des évolutions de ses systèmes applicatifs
-- Indicateurs de performance de(s) l’application(s)
-- Documentation applicative
-- Note de cadrage
-- Cahier des charges
-- Spécifications fonctionnelles et techniques
-- Les suivis d’avancement
-- Planning
-- Compte-rendu
-- Procès-verbal de recette
+- Ensemble de prestations respectant les critères de délai et de qualité, et satisfaction clients (utilisateurs internes ou externes à l'entreprise)
+- Adéquation des compétences de l'entité avec le service attendu
 
 ### INDICATEURS DE PERFORMANCE
 
-- Nombre de demandes d'évolution ou de correction
-- Degré de satisfaction du client
-- Niveau de disponibilité et de performance des systèmes
-- Respect des coûts et du budget
-- Mesure du projet : Planifié vs réalisé
+- Respect des délais et des budgets
+- Progression des compétences de l'entité
+- 
