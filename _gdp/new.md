@@ -26,14 +26,36 @@ Il est le garant de prestations informatiques produites en qualité et sécurit�
 - Gestion de la relation client
   - Communique auprès des directions métier et maîtrises d’ouvrages clientes
   - Communique au sein de son équipe
+- Identification des besoins
+- Conception des applications
+- Intégration
+- Tests
+- Production de la documentation
+- Support aux changements
+- Support utilisateur & fourniture de services
+- Formation
+- Achats
 
 ### LIVRABLES
 
 - Ensemble de prestations respectant les critères de délai et de qualité, et satisfaction clients (utilisateurs internes ou externes à l'entreprise)
 - Adéquation des compétences de l'entité avec le service attendu
+- Suivi des évolutions de ses systèmes applicatifs
+- Indicateurs de performance de(s) l’application(s)
+- Documentation applicative
+- Note de cadrage
+- Spécifications techniques
+- Les suivis d’avancement
 
 ### INDICATEURS DE PERFORMANCE
 
 - Respect des délais et des budgets
 - Progression des compétences de l'entité
-- 
+- Nombre de demandes d'évolution ou de correction
+- Degré de satisfaction du client
+- Niveau de disponibilité et de performance des systèmes
+- Respect des coûts et du budget
+- Mesure du projet : Planifié vs réalisé
+
+
+
