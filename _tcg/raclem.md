@@ -33,3 +33,11 @@ category: strategy
 <img src="https://static.lorcards.fr/cards/fr/rotf/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-ascension-des-floodborn-58-204-pinocchio-marionnette-bavarde.webp"  width="25%">
 
 <p style="text-align: justify;">On ne joue pas de tremaine et de feu du dragon, car qu'une seule utilisation, pour gérer un problème. On est dans un jeu de value et on veut garder nos ressources.</p>
+
+<img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-112-204-madame-medusa-la-patronne.webp"  width="25%">
+
+<p style="text-align: justify;">On peut tourner autour de tremaine, donc moins fort. Medusa peut target, sur le play dès qu'il pose la carte, tuer le lapin, robin et la bete.</p>
+
+<img src="https://static.lorcards.fr/cards/fr/fc/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-premier-chapitre-113-204-malefique-dragon-monstrueux.webp"  width="25%">
+
+<p style="text-align: justify;">4 pour gérer les Bleu / Rouge, qui jouent soit lucky dime et on ne peut rien faire, soit il va jouer peu de créature par tour et donc on pourra les gérer et on fatiguera son deck.</p>
