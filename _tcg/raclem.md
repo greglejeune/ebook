@@ -45,3 +45,7 @@ category: strategy
 <img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-114-204-maui-baleine.webp"  width="25%">
 
 <p style="text-align: justify;">Contre gris car enorme stats. Encrable donc ne fait pas perdre des parties comme des elsa et des ursula. Va chercher des lieux.</p>
+
+<img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-132-204-l-hamecon-de-maui.webp"  width="25%">
+
+<p style="text-align: justify;">Obligatoire vs Bleu et Miroir, permet de passer en aggro aussi comme rouge/vert evasif, permet de donner un impact a des créatures qui n'en ont pas.</p>
