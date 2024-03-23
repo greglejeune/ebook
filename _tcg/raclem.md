@@ -42,3 +42,6 @@ category: strategy
 
 <p style="text-align: justify;">4 pour gérer les Bleu / Rouge, qui jouent soit lucky dime et on ne peut rien faire, soit il va jouer peu de créature par tour et donc on pourra les gérer et on fatiguera son deck. Il faudra grater du lore et gérer.</p>
 
+<img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-114-204-maui-baleine.webp"  width="25%">
+
+<p style="text-align: justify;">Contre gris car enorme stats. Encrable donc ne fait pas perdre des parties comme des elsa et des ursula. Va chercher des lieux.</p>
