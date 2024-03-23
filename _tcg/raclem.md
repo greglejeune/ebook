@@ -49,3 +49,8 @@ category: strategy
 <img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-132-204-l-hamecon-de-maui.webp"  width="25%">
 
 <p style="text-align: justify;">Obligatoire vs Bleu et Miroir, permet de passer en aggro aussi comme rouge/vert evasif, permet de donner un impact a des créatures qui n'en ont pas.</p>
+
+<img src="https://static.lorcards.fr/cards/fr/rotf/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-ascension-des-floodborn-68-204-grimoire-du-sorcier.webp"  width="25%">
+
+<p style="text-align: justify;">Peut faire gagner des games</p>
+
