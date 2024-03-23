@@ -52,5 +52,5 @@ category: strategy
 
 <img src="https://static.lorcards.fr/cards/fr/rotf/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-ascension-des-floodborn-68-204-grimoire-du-sorcier.webp"  width="25%">
 
-<p style="text-align: justify;">Peut faire gagner des games</p>
+<p style="text-align: justify;">Peut faire gagner des games surtout vs bleu et miroir.</p>
 
