@@ -40,4 +40,5 @@ category: strategy
 
 <img src="https://static.lorcards.fr/cards/fr/fc/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-premier-chapitre-113-204-malefique-dragon-monstrueux.webp"  width="25%">
 
-<p style="text-align: justify;">4 pour gérer les Bleu / Rouge, qui jouent soit lucky dime et on ne peut rien faire, soit il va jouer peu de créature par tour et donc on pourra les gérer et on fatiguera son deck.</p>
+<p style="text-align: justify;">4 pour gérer les Bleu / Rouge, qui jouent soit lucky dime et on ne peut rien faire, soit il va jouer peu de créature par tour et donc on pourra les gérer et on fatiguera son deck. Il faudra grater du lore et gérer.</p>
+
