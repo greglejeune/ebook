@@ -10,6 +10,7 @@ category: strategy
 
 <img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-54-204-rafiki-combattant-mystique.webp" width="25%">
 
-Rafiki comme crochet en gris
+<p style="text-align: justify;">Rafiki comme crochet en gris</p>
 
-Des 1/3 contre gris pour ne pas mourir sur perdu dans l'hiver
+<p style="text-align: justify;">Des 1/3 contre gris pour ne pas mourir sur perdu dans l'hiver. Pas d'attaque de zone, tuons la bete, etc. donc va permettre d'avoir des loreur evasif en fin de game avec l'hameçon.</p>
+
