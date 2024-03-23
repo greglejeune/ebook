@@ -12,5 +12,10 @@ category: strategy
 
 <p style="text-align: justify;">Rafiki comme crochet en gris</p>
 
+https://static.lorcards.fr/cards/fr/fc/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-premier-chapitre-116-204-minnie-toujours-elegante.webp
+
 <p style="text-align: justify;">Des 1/3 contre gris pour ne pas mourir sur perdu dans l'hiver. Pas d'attaque de zone, tuons la bete, etc. donc va permettre d'avoir des loreur evasif en fin de game avec l'hameçon.</p>
 
+https://static.lorcards.fr/cards/fr/rotf/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-ascension-des-floodborn-45-204-kuzco-lama-recherche.webp
+
+<p style="text-align: justify;">Pour switché le plan de jeu en aggro. Vs des deck late game.</p>
