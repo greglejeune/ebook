@@ -54,4 +54,4 @@ category: strategy
 
 <img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-67-204-chateau-de-la-reine-salle-du-miroir.webp" width="25%" style="transform: rotate(90deg);">
 
-<p style="text-align: justify;">Peut être joué T4 sur le play et sans menace, mais plus une mains de fin de partie pour se refaire une main. Mais ça renforce le late game d'un deck fort en late game. Pas indispensable.</p>
+<p style="text-align: justify;">Peut être joué T4 sur le play et sans menace, mais plus une mains de fin de partie pour se refaire une main. Mais ça renforce le late game d'un deck fort en late game. Pas indispensable. Super combo avec Be Prep.</p>
