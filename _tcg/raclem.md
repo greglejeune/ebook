@@ -6,8 +6,6 @@ category: strategy
 
 # Deck Raclem
 
-<img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-67-204-chateau-de-la-reine-salle-du-miroir.webp" width="25%" style="transform: rotate(90deg);">
-
 <p style="text-align: justify;">La meta US et PixelBorn est différente dans les tournoi physique, plus d'aggro et de gris.</p>
 
 <img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-54-204-rafiki-combattant-mystique.webp" width="25%">
@@ -54,3 +52,4 @@ category: strategy
 
 <p style="text-align: justify;">Peut faire gagner des games surtout vs bleu et miroir.</p>
 
+<img src="https://static.lorcards.fr/cards/fr/iti/image-cartes-a-collectionner-lorcana-disney-game-tcg-lorcanacards-les-terres-d'encres-67-204-chateau-de-la-reine-salle-du-miroir.webp" width="25%" style="transform: rotate(90deg);">
