@@ -2,7 +2,7 @@
 layout: poker
 title: "Test"
 category: pu
-source: 
+source: https://s3-eu-west-1.amazonaws.com/medias.poker-academie.com/videos/Benj_3table_en_NL100_RunItOnce.mp4
 ---
 
 # Test
