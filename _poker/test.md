@@ -15,3 +15,4 @@ source:
 
 Test de text 'un texte' !
 
+<img src="https://greglejeune.github.io/ebook/img/graph-1.png">
