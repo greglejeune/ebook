@@ -33,3 +33,12 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 - Projets
 - Actions
 
+## Définition (clarté sur ce que j'ai à faire)
+
+<p style="text-align: justify;">
+  <strong>Y'a-t-il quelque chose à faire de cela depuis ce rôle ?</strong>
+</p>
+
+- Quel est le résultat souhaité ?
+- A quoi ressemble la prochaine action ?
+
