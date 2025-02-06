@@ -41,6 +41,12 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 
 - Quel est le résultat souhaité ?
 - A quoi ressemble la prochaine action ?
+- Listes concrètes
+  - Lieux
+  - Durées
+  - Energie
+  - Personnes
+  - En attente de la part de ...
 
 ## Exécution (clarté sur ce je fais)
 
