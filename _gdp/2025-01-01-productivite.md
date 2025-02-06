@@ -47,6 +47,7 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
   - Energie
   - Personnes
   - En attente de la part de ...
+  - Calendrier (jour imposé par autrui)
 
 ## Exécution (clarté sur ce je fais)
 
