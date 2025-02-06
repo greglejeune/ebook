@@ -69,7 +69,7 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
   - Célébrer
  
 <p style="text-align: justify;">
-  <strong>Défendre les plages de temps dédiées aux imprévus.</strong>
+  <strong>Défendre les plages de temps dédiées aux imprévus et priviliégier le travail de fond pendant <span>les temps reservés</span>.</strong>
 </p>
  
 ## Maintenance (clarté sur ce qui est fait et ce qui reste à faire)
