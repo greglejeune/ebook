@@ -17,3 +17,19 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 - Qu'est ce qu'on me demande ?
 - Qu'est ce que la vie m'envoie ?
 
+<p style="text-align: justify;">
+  <strong>Mais est-ce que cela appartient à l'un de mes rôles ?</strong>
+</p>
+
+## Rôles (clarté sur pourquoi je le fais)
+
+<p style="text-align: justify;">
+  <strong>Personnel ou Professionnel</strong>
+</p>
+
+- But
+- Vision
+- Attendus
+- Projets
+- Actions
+
