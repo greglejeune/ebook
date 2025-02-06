@@ -58,5 +58,5 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 ## Maintenance (clarté sur ce qui est fait et ce qui reste à faire)
 
 - Mise à jour des listes
-- Revue Hebdo
+- Revues
 
