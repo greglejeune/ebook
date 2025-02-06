@@ -63,10 +63,14 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
   - Revue des listes
 - Pomodoro
   - 15/20 ou 45 + pause
-- Routine du soir
+- Routine du soir (changement d'activité)
   - Inbox Zero
   - Calendrier
   - Célébrer
+ 
+<p style="text-align: justify;">
+  <strong>Défendre les plages de temps dédiées aux imprévus.</strong>
+</p>
  
 ## Maintenance (clarté sur ce qui est fait et ce qui reste à faire)
 
