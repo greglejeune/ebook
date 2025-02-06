@@ -48,6 +48,12 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
   - Personnes
   - En attente de la part de ...
   - Calendrier (jour imposé par autrui)
+ 
+## Cartographie de résultat (clarté sur comment je le fais)
+
+- Brief, cadrage, ...
+- Documentation
+- (Rétro)Planning
 
 ## Exécution (clarté sur ce je fais)
 
