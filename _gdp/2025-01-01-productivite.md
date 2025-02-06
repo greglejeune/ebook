@@ -43,8 +43,8 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 - A quoi ressemble la prochaine action ?
 - Listes concrètes
   - Lieux
-  - Durées
-  - Energie
+  - Durées (vite fait, ...)
+  - Energie (Au calme, facile, ...)
   - Personnes
   - En attente de la part de ...
   - Calendrier (jour imposé par autrui)
