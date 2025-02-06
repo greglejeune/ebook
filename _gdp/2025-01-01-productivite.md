@@ -10,7 +10,7 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 ## La Centralisation (ce que j'ai à faire)
 
 <p style="text-align: justify;">
-  <strong>Il faut une boite d'entrée.</strong>
+  <strong>Il faut une boite d'entrée (digitale & physique).</strong>
 </p>
 
 - Qu'est ce qui me préoccupe ?
