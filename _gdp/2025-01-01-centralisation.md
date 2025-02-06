@@ -42,3 +42,21 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 - Quel est le résultat souhaité ?
 - A quoi ressemble la prochaine action ?
 
+## Exécution (clarté sur ce je fais)
+
+- Routine du matin
+  - Calendrier
+  - Inbox Zero
+  - Revue des listes
+- Pomodoro
+  - 15/20 ou 45 + pause
+- Routine du soir
+  - Inbox Zero
+  - Calendrier
+  - Célébrer
+ 
+## Maintenance (clarté sur ce qui est fait et ce qui reste à faire)
+
+- Mise à jour des listes
+- Revue Hebdo
+
