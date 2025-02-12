@@ -80,4 +80,8 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
 - Reserver les plages de temps
 - Passer en revue les choses "En attente"
 - Revoir la cartographie des rôles (moins fréquent)
+- Direction pour la semaine à venir (3 sujets)
+- Considérer les choses "Un jour / Peut-être"
+
+
 
