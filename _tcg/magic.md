@@ -16,3 +16,4 @@ category: strategy
 - Phase de combat
 - Phase principale (post combat)
 - Phase de fin
+  - "fin de tour" / "à toi" : Response fin de tour ?
