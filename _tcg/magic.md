@@ -17,3 +17,4 @@ category: strategy
 - Phase principale (post combat)
 - Phase de fin
   - "fin de tour" / "à toi" : Response fin de tour ?
+    - lancer des éphémères et activer des capacités
