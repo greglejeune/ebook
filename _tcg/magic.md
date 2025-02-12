@@ -6,7 +6,8 @@ category: strategy
 
 # Magic
 
-- Le rouge veut souvent spam le board avec des petites créatures
-- Le noir veut souvent envoyer des créatures au cimetière
-- Le bleu utilise des créatures volantes pour contourner les bloqueurs
-- Les créatures vertes sont souvent plus imposntes ques les autres, il faut utiliser des sorts pour les vaincres
+- On peut activer les capacités des cartes comme des flashs (pendant le tour adverse)
+
+## Sequence
+
+- Quand la personne dit "fin de tour"
