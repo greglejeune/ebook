@@ -8,6 +8,10 @@ category: strategy
 
 - On peut activer les capacités des cartes comme des flashs (pendant le tour adverse)
 
-## Sequence
+## Quelles sont les différentes phases et étapes d'un tour ?
 
-- Quand la personne dit "fin de tour"
+- Phase de début
+- Phase principale (pré combat)
+- Phase de combat
+- Phase principale (post combat)
+- Phase de fin
