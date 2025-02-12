@@ -6,6 +6,7 @@ category: strategy
 
 # Magic
 
+- Maximum de 7 cartes en main
 - On peut activer les capacités des cartes comme des flashs (pendant le tour adverse)
 
 ## Quelles sont les différentes phases et étapes d'un tour ?
