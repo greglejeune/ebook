@@ -7,6 +7,7 @@ category: strategy
 # Magic
 
 - Maximum de 7 cartes en main
+- Quand une créature à 0 d'endurance, elle va au cimetière
 - On peut activer les capacités des cartes comme des flashs (pendant le tour adverse)
 
 ## Quelles sont les différentes phases et étapes d'un tour ?
