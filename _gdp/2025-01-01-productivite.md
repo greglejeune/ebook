@@ -74,6 +74,10 @@ source : "https://www.youtube.com/watch?v=i1K_IVTvXpY"
  
 ## Maintenance (clarté sur ce qui est fait et ce qui reste à faire)
 
+- Faire du rangement
 - Mise à jour des listes
-- Revues
+- Revue du calendrier (semaines passées et futures)
+- Reserver les plages de temps
+- Passer en revue les choses "En attente"
+- Revoir la cartographie des rôles (moins fréquent)
 
