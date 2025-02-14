@@ -25,4 +25,8 @@ category: strategy
 - 23 cartes jouables et 17 (9/8) terrains
 - Entre 15/18 créatures
 - Entre 5/8 spells
-
+- 7 drop 1&2
+- 5 drop 3
+- 3 drop 4
+- 2 drop 5
+- 1 drop 6
