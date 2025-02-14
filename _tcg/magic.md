@@ -19,3 +19,10 @@ category: strategy
 - Phase de fin
   - "fin de tour" / "à toi" : Response fin de tour ?
     - lancer des éphémères et activer des capacités
+
+## Scelle
+
+- 23 cartes jouables et 17 (9/8) terrains
+- Entre 15/18 créatures
+- Entre 5/8 spells
+
